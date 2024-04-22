@@ -3,7 +3,6 @@ var usuario = {
     senha: "123"
 }
 function entrar(){
-    
     var nome= document.getElementById('nome').value;
     var senha= document.getElementById('senha').value;
 
